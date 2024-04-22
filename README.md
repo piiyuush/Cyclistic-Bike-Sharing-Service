@@ -64,7 +64,7 @@ Based on the analysis, the following suggestions are put forth:
 
 ## Share 
 
-Check out the daashboard on Tableau Public: [Cyclistic Dashboard](https://public.tableau.com/views/BellabeatNon-FitnessDeviceAnalysisCaseStudy/SleepbyWeekday?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+Check out the daashboard on Tableau Public: [Cyclistic Dashboard](https://public.tableau.com/views/Cyclistic-Bike-Sharing-ServiceDashboard/googleproject?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 
