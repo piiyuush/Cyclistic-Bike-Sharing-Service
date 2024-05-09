@@ -2,7 +2,7 @@
 ## A Google Data Analytics Professional Certificate Capstone Project
 
 
-<img align="right" width="500" height="400" src="https://github.com/piiyuush/Cyclistic-Bike-Sharing-Service/blob/main/cyclistic.jpg?raw=true">
+<img align="right" width="500" height="400" src="https://raw.githubusercontent.com/piiyuush/Cyclistic-Bike-Sharing-Service/main/PIC/C2.webp">
 
 Cyclistic's bike-share program in Chicago started in 2016, growing to 5,824 bikes across 692 stations. They offer single-ride passes, full-day passes, and annual memberships. Annual members are more profitable than casual riders. 
 To maximize growth, they aim to convert casual riders into members. Understanding the differences between these groups and why casual riders would buy memberships is crucial. They plan to analyze historical trip data to identify trends and tailor marketing strategies accordingly.
